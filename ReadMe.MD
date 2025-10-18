@@ -1,4 +1,4 @@
-# Profile API
+## Profile API
 A simple API that returns a personal profile object with dynamic timestamp and a fun fact. Built as part of the HNG internship task.
 
 ## Table of Contents
