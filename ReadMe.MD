@@ -1,12 +1,6 @@
 ## Profile API
 A simple API that returns a personal profile object with dynamic timestamp and a fun fact. Built as part of the HNG internship task.
 
-## Table of Contents
-[Features](#features)
-[Tech Stack](#tech-stack)
-[Setup & Installation](#setup--installation)
-[Running Locally](#running-locally)
-
 ## Features
 `GET /me` endpoint returning JSON
 Dynamic UTC timestamp
