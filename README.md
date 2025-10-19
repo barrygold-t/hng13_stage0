@@ -14,8 +14,7 @@ Express.js
 ## Setup & Installation
 1. Clone the repository:
 git clone https://github.com/barrygold-t/hng13_stage0
-
-cd stage0
+- cd stage0
 
 2. Install dependencies:
 `npm install`
